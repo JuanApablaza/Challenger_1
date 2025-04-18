@@ -257,5 +257,5 @@ plt.show()
 
 """**Diagnostico**
 
-De acuerdo a los analisis de los datos, la tienda 4 es la que tiene menos utilidad , costos de envío son bajos , es la que tiene menos utilidad por ultimo su calificacion es de un 3.996, la tercera mas baja. Por lo tanto la tienda 4 debería cerrar.
+De acuerdo a los analisis de los datos, la tienda 4 es la que tiene menos facturacion , costos de envío son bajos , es la que tiene menos utilidad por ultimo su calificacion es de un 3.996, la tercera mas baja. Por lo tanto la tienda 4 debería cerrar.
 """
